@@ -30,9 +30,6 @@
 		<image:image>
 			<image:loc>/wp-content/uploads/sites/7/2023/12/655.jpg</image:loc>
 		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/sites/7/2023/12/649.jpg</image:loc>
-		</image:image>
 	</url>
 	<url>
 		<loc>/news</loc>
@@ -69,9 +66,6 @@
 		</image:image>
 		<image:image>
 			<image:loc>/wp-content/uploads/sites/7/2020/09/fb_image_tmp-3610.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/sites/7/2020/09/fb_image_tmp-1172-616x675.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>
