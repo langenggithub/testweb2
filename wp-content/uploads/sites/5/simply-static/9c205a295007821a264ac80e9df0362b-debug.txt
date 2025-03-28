@@ -1,0 +1,3 @@
+[2025-01-20 08:34:50] [class-ss-multisite.php:143] Switched to blog: 5
+[2025-01-20 08:34:50] [class-ss-archive-creation-job.php:97] Starting a job; no job is presently running
+[2025-01-20 08:34:50] [class-ss-archive-creation-job.php:98] Here's our task list: setup, fetch_urls, generate_404, create_zip_archive, wrapup

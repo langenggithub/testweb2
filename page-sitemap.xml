@@ -2,127 +2,86 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
 		<loc>/</loc>
-		<lastmod>2024-04-13T08:24:57+00:00</lastmod>
+		<lastmod>2024-03-04T04:06:25+00:00</lastmod>
 		<image:image>
-			<image:loc>/wp-content/uploads/sites/7/2024/04/12195023_1666800106940475_1841871075248724819_o.jpg</image:loc>
+			<image:loc>/wp-content/uploads/sites/5/2024/02/maxresdefault-11-1.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/sites/7/2023/12/698.jpg</image:loc>
+			<image:loc>/wp-content/uploads/sites/5/2024/02/35__4.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/sites/7/2023/12/703.jpg</image:loc>
+			<image:loc>/wp-content/uploads/sites/5/2024/02/50_.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/sites/7/2023/12/691.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/sites/7/2023/12/686.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/sites/7/2023/12/682.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/sites/7/2020/11/pexels-pixabay-235721-1-1.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/sites/7/2023/12/658.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/sites/7/2023/12/655.jpg</image:loc>
+			<image:loc>/wp-content/uploads/sites/5/2024/02/1200_6.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc>/news</loc>
-		<lastmod>2024-04-13T08:24:54+00:00</lastmod>
+		<loc>/contact-us/</loc>
+		<lastmod>2024-03-04T04:06:24+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/page1-2/</loc>
+		<lastmod>2024-03-04T04:06:24+00:00</lastmod>
 		<image:image>
-			<image:loc>/wp-content/uploads/sites/7/2023/12/698.jpg</image:loc>
+			<image:loc>/wp-content/uploads/sites/5/2024/03/jinbodhi-012-760x1024-1.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/sites/7/2023/12/703.jpg</image:loc>
+			<image:loc>/wp-content/uploads/sites/5/2024/03/jinbodhi-017-1.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/sites/7/2023/12/691.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/sites/7/2023/12/686.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/sites/7/2023/12/682.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/sites/7/2020/11/pexels-pixabay-235721-1-1.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/sites/7/2023/12/658.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/sites/7/2023/12/655.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/sites/7/2023/12/649.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/sites/7/2020/10/fb_image_tmp-3681.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/sites/7/2020/09/fb_image_tmp-3610.jpg</image:loc>
+			<image:loc>/wp-content/uploads/sites/5/2024/03/119603327_749003405884779_8654524383128422087_n.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc>/itmes</loc>
-		<lastmod>2024-04-13T08:24:55+00:00</lastmod>
+		<loc>/sample-page/</loc>
+		<lastmod>2024-03-04T04:06:24+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/about/</loc>
+		<lastmod>2024-03-04T04:06:25+00:00</lastmod>
 		<image:image>
-			<image:loc>/wp-content/uploads/sites/7/2020/06/jiaxun-10.jpeg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/sites/7/2020/06/jiaxun-9.jpeg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/sites/7/2020/06/jiaxun-8.jpeg</image:loc>
+			<image:loc>/wp-content/uploads/sites/5/2024/03/jinbodhi-009-1.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc>/%e9%87%91%e8%8f%a9%e6%8f%90%e7%a6%aa%e5%b8%ab%e7%a6%aa%e8%aa%9e-0</loc>
-		<lastmod>2024-04-13T08:24:56+00:00</lastmod>
-	</url>
-	<url>
-		<loc>/contact-2</loc>
-		<lastmod>2024-04-13T08:24:56+00:00</lastmod>
-	</url>
-	<url>
-		<loc>/contact</loc>
-		<lastmod>2024-04-13T08:24:56+00:00</lastmod>
+		<loc>/news/</loc>
+		<lastmod>2024-03-04T08:05:36+00:00</lastmod>
 		<image:image>
-			<image:loc>/wp-content/uploads/sites/7/2024/04/118586_m-1.jpg</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>/%e9%87%91%e8%8f%a9%e6%8f%90%e7%a6%aa%e5%b8%ab%e7%a6%aa%e8%aa%9e</loc>
-		<lastmod>2024-04-13T08:24:56+00:00</lastmod>
-		<image:image>
-			<image:loc>/wp-content/uploads/sites/7/2024/04/fb_image_tmp-5812.jpg</image:loc>
+			<image:loc>/wp-content/uploads/sites/5/2025/03/english-version-the-three-great-rulers-of-romeefbd9clegendary-rulers-of-romeefbd9cturkey-episode-1-1080x675.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/sites/7/2024/04/fb_image_tmp-5044.jpg</image:loc>
+			<image:loc>/wp-content/uploads/sites/5/2022/06/maxresdefault-111-1.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/sites/7/2020/10/fb_image_tmp-3681.jpg</image:loc>
+			<image:loc>/wp-content/uploads/sites/5/2024/03/maxresdefault-15-1.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/sites/7/2024/04/103112819_570754683870320_6962777101041120432_n.jpg</image:loc>
+			<image:loc>/wp-content/uploads/sites/5/2022/06/maxresdefault-16-1.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/sites/7/2020/09/fb_image_tmp-3610.jpg</image:loc>
+			<image:loc>/wp-content/uploads/sites/5/2022/06/maxresdefault-17-1.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/sites/7/2024/04/fb_image_tmp-6511.jpg</image:loc>
+			<image:loc>/wp-content/uploads/sites/5/2021/03/maxresdefault-18-1.jpg</image:loc>
 		</image:image>
-	</url>
-	<url>
-		<loc>/about</loc>
-		<lastmod>2024-04-13T08:24:57+00:00</lastmod>
 		<image:image>
-			<image:loc>/wp-content/uploads/sites/7/2024/04/81231-1-980x634-2.jpg</image:loc>
+			<image:loc>/wp-content/uploads/sites/5/2021/03/maxresdefault-19-1.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/sites/5/2021/03/maxresdefault-20-1.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/sites/5/2021/03/cabe8235295925ec-1.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/sites/5/2021/03/pexels-johannes-plenio-1133505-1.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/sites/5/2021/03/maxresdefault-21-1.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/sites/5/2021/03/maxresdefault-22-1.jpg</image:loc>
 		</image:image>
 	</url>
 </urlset>
